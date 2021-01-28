@@ -1,1 +1,1 @@
-A simple ATM made in Python by using class and method . I am still working on this in order to make this more attractive and user-friendly. I have not used Database in this, I will add a dummy database after that It will be the final one.
+A simple ATM made in Python by using class and method . I am still working on this in order to make this more attractive and user-friendly. I have not used Database in this, I will add a dummy database in order to make it more comfortable and I have to also add some more fetaures in this
